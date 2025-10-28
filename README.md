@@ -73,10 +73,10 @@ To explore global space mission trends — identifying top-performing companies,
 ## 🧭 Interactive Features  
 Enhancing user experience through **intuitive navigation and interactivity**:
 
-| 🏠 **Home Icon** | Navigation | Instantly returns you to the main dashboard page. |
-| 🧩 **Filter Panel Icon** | Filter Toggle | Opens a grouped filter panel containing all slicers for Year, Country, Company, and Status. |
-| ❌ **Cross Icon** | Close Filter Panel | Appears when the filter panel is open — clicking it hides the slicers. |
-| 🔁 **Reset Icon** | Reset Filters | Clears all selections and restores default view. |
+- | 🏠 **Home Icon** | Navigation | Instantly returns you to the main dashboard page. |
+- | 🧩 **Filter Panel Icon** | Filter Toggle | Opens a grouped filter panel containing all slicers for Year, Country, Company, and Status. |
+- | ❌ **Cross Icon** | Close Filter Panel | Appears when the filter panel is open — clicking it hides the slicers. |
+- | 🔁 **Reset Icon** | Reset Filters | Clears all selections and restores default view. |
 
 These additions make the dashboard more **interactive, accessible, and user-friendly**, ensuring a smooth analysis experience for all users.
 
