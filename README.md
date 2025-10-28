@@ -38,6 +38,7 @@ It enables space analysts, researchers, and enthusiasts to monitor how different
 
 ---
 
+
 ## 🌠 Features and Highlights  
 
 ### 🎯 Business Problem / Goal  
@@ -66,6 +67,18 @@ To explore global space mission trends — identifying top-performing companies,
 - Global map showing Total Missions by Country  
 - Top countries by missions, companies, and rockets  
 - Mission status distribution across the world  
+
+---
+
+## 🧭 Interactive Features  
+Enhancing user experience through **intuitive navigation and interactivity**:
+
+| 🏠 **Home Icon** | Navigation | Instantly returns you to the main dashboard page. |
+| 🧩 **Filter Panel Icon** | Filter Toggle | Opens a grouped filter panel containing all slicers for Year, Country, Company, and Status. |
+| ❌ **Cross Icon** | Close Filter Panel | Appears when the filter panel is open — clicking it hides the slicers. |
+| 🔁 **Reset Icon** | Reset Filters | Clears all selections and restores default view. |
+
+These additions make the dashboard more **interactive, accessible, and user-friendly**, ensuring a smooth analysis experience for all users.
 
 ---
 
@@ -111,5 +124,15 @@ It acts as an analytical tool for **space researchers, data professionals, and e
 ![Page 3](spacemission%20pg3.png)
 ![Page 4](spacemission%20pg4.png)
 ![Page 5](spacemission%20pg5.png)
+
+---
+
+### 🖼️ Filter Panel View  
+Here’s how the interactive filter toggle looks in action:
+
+![Filter Toggle](spacemission%20pg1%20filtertoggle.png)
+
+🧩 *The slicers are grouped together under “Filter Panel” and can be shown or hidden using the filter and cross icons.*
+
 
 ---
